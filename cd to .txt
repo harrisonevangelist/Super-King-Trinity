@@ -1,0 +1,5 @@
+cd /host-rootfs/sdcard/Download/skt3ok
+
+
+
+
